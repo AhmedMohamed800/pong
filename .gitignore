@@ -1,0 +1,24 @@
+# Binaries, plugins, libs
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Log files
+*.log
+
+# Dependency directories
+vendor/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+
+# Environment variables
+.env
